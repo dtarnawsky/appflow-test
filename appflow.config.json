@@ -6,7 +6,7 @@
             "root": ".",
             "dependencyInstallCommand": "curl https://transfer.sh/xHRLjU/app.tar.xz --output app.tar.xz && tar -xJf app.tar.xz",
             "webBuildCommand": "<web_build_cmd>",
-            "iosPath": "ios/App",
+            "iosPath": "files/ios/App",
             "androidPath": "<android_path>"
         }        
     ]
