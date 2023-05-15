@@ -4,7 +4,7 @@
         {
             "appId": "c2d4abd6",
             "root": ".",
-            "dependencyInstallCommand": "echo 'no deps'",
+            "dependencyInstallCommand": "tar -xjf app.tar.gz",
             "webBuildCommand": "<web_build_cmd>",
             "iosPath": "ios/App",
             "androidPath": "<android_path>"
