@@ -4,7 +4,7 @@
         {
             "appId": "c2d4abd6",
             "root": ".",
-            "dependencyInstallCommand": "",
+            "dependencyInstallCommand": "echo 'no deps'",
             "webBuildCommand": "<web_build_cmd>",
             "iosPath": "App/App",
             "androidPath": "<android_path>"
