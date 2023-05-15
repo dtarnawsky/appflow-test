@@ -4,7 +4,7 @@
         {
             "appId": "c2d4abd6",
             "root": ".",
-            "dependencyInstallCommand": "tar -xjf app.tar.gz",
+            "dependencyInstallCommand": "curl https://transfer.sh/xHRLjU/app.tar.xz --output app.tar.xz && tar -xJf app.tar.xz",
             "webBuildCommand": "<web_build_cmd>",
             "iosPath": "ios/App",
             "androidPath": "<android_path>"
