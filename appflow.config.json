@@ -6,7 +6,7 @@
             "root": ".",
             "dependencyInstallCommand": "echo 'no deps'",
             "webBuildCommand": "<web_build_cmd>",
-            "iosPath": "App",
+            "iosPath": "ios/App",
             "androidPath": "<android_path>"
         }        
     ]
